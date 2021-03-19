@@ -1,0 +1,4 @@
+#Fri Mar 19 20:28:24 SGT 2021
+base.0=D\:\\degree sem3\\Mobile App\\prac\\redo\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
